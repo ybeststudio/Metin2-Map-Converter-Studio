@@ -4,7 +4,7 @@ Metin2 client map klasörlerinden server tarafında kullanılabilir map dosyalar
 
 Program; `setting.txt`, area klasörleri ve `attr.atr` dosyalarını okuyarak server tarafındaki temel map paketini oluşturur. `_pass` veya parent map kullanan haritalarda, kaynak mapte attr yoksa `ParentMapName` üzerinden gerçek attr kaynağı bulunur.
 
-Metin2 Map Converter Studio](metin2_map_converter_studio.png)
+![Metin2 Map Converter Studio](metin2_map_converter_studio.png)
 
 Tanıtım videosu:
 https://youtu.be/922ijvvRCAg
