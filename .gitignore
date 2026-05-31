@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+release/
+*.spec
+
+# Generated map output
+GeneratedMaps/*
+!GeneratedMaps/.gitkeep
+
+# Local reports and diagnostics
+Reports/
+analysis/
+exported_server_attrs/
+
+# Local environment
+.venv/
+venv/
+*.log
